@@ -696,3 +696,19 @@ span.caption {
         display: none;
     }
 }
+@media screen and (max-width: 320px) {
+    .site-header .left {
+    left: 110px;
+    top: 25px;
+    }
+    p {
+    font-size: 14px;
+    }
+    #profile h1 {
+    padding: 85px 10px 0px 10px;
+    }
+    #profile h2 {
+    padding: 15px 22px 0px;
+    font-size: 14px;
+}
+}

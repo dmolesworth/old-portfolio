@@ -711,5 +711,6 @@ span.caption {
     #profile h2 {
     padding: 15px 22px 0px;
     font-size: 14px;
+    line-height: 1.3 !important;
 }
 }
